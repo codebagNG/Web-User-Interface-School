@@ -5,3 +5,10 @@ This Repository will include
 - Links to videos
 - Links to Book Downloads
 - Links to Projects and Projects Samples
+
+### Student Requirements 	
+- Desktop, laptop, Chromebook, or netbook (Windows or Mac).
+- Basic text editor such as Notepad (Windows) or TextEdit (Mac).
+
+### Course Prerequisites
+None.
